@@ -1,0 +1,36 @@
+# Ignorar diretórios específicos
+/.VirtualBox/
+/.cache/
+/.config/
+/.eclipse/
+/.gradle/
+/.m2/
+/.ssh/
+/.vscode/
+/AppData/
+/Downloads/
+/Favorites/
+/IdeaProjects/
+/Links/
+/Microsoft/
+/Music/
+/OneDrive/
+/PycharmProjects/
+/Saved Games/
+/Searches/
+/Videos/
+
+# Ignorar arquivos específicos
+/.bash_history
+/.git-credentials
+/.gitconfig
+/.lesshst
+/discoclient.properties
+/edb_languagepack.exe
+/edb_psqlodbc.exe
+/ntuser.dat
+/ntuser.dat.LOG1
+/ntuser.dat.LOG2
+/ntuser.ini
+/postgresql_15.exe
+/ppgunim/
